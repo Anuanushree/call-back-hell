@@ -47,7 +47,7 @@ function function6(callback) {
         countdown.innerHTML = c;
         c--;
         callback();
-    }, 500)
+    }, 700)
 }
 function function7(callback) {
     setTimeout(() => {
